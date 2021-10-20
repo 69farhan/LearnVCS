@@ -1,12 +1,12 @@
 # LearnVCS
-BelajarVCS
+#BelajarVCS
 
 Cara penggunaan git 
 1. Install aplikasi git di git-scm.com
 2. buka aplikasi git
 3. ketik pwd di aplikasi git bash
 4. buat direktori kerja sesuai windows dan laptop. Sebagai contoh cd /c/folder-git/
-5. ![img]screenshootcd.png
+5. ![screenshootcd](https://user-images.githubusercontent.com/92661820/138033613-92bc37ad-b945-490e-a595-ed70ed67f710.png)
 6. ketik ls
 7. ketik ls -1
 8. ketik git clone dan masukan repository github 
