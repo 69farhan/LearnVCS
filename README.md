@@ -1,8 +1,9 @@
 # LearnVCS
-#BelajarVCS
+#BelajarVCS #AhmadDillahFarhan #TI.21.C1
+![index](https://user-images.githubusercontent.com/92661820/138034502-4864c42a-8459-4f94-8a96-13b90e856ccb.png)
 
-Cara penggunaan git 
-1. Install aplikasi git di git-scm.com
+### Cara penggunaan git 
+_1. Install aplikasi git di https://git-scm.com
 2. buka aplikasi git
 3. ketik pwd di aplikasi git bash
 4. buat direktori kerja sesuai windows dan laptop. Sebagai contoh cd /c/folder-git/
@@ -23,4 +24,4 @@ Cara penggunaan git
 19. 19. contoh : git config --global user.name"contoh@gmail.com"
 20. setelah itu push dengan mengetik : git push -u origin main 
 21. lalu dilanjutkan dengan authorize akun gmail ![screenshootpush](https://user-images.githubusercontent.com/92661820/138032222-71599ad7-9a48-4afe-9b24-6c3515f69463.png)
-22. dan selesai 
+22. dan selesai_ 
